@@ -69,6 +69,7 @@ h2 {
 }
 h3{
     font-size: 32px;
+    font-family: 'Dancing Script', cursive;
 }
 
 
@@ -107,7 +108,7 @@ figure {
     height: inherit;
     padding: 26px 30px 19px;
     font-size: 19px;
-    font-weight: 100;
+    font-family: 'Dancing Script', cursive;
 }
 .header a{
     color:black;
@@ -165,6 +166,7 @@ padding-top: 25px;
 margin-bottom: -10px;
 border-bottom: solid #f3f3f3 2px;
 font-size: 40px;
+font-family: 'Dancing Script', cursive;
 }
 .event {
   margin: 1%;
@@ -234,7 +236,7 @@ font-size: 40px;
 
 .social h3{
     font-weight: normal;
-    font-family: inherit;
+    font-family: 'Dancing Script', cursive;
 }
 
 .form-email input{
@@ -260,7 +262,7 @@ font-size: 40px;
 }
 
 .form-email h3{
-    font-family: "Source Sans Pro", sans-serif;
+   font-family: 'Dancing Script', cursive;
 }
 
 .form-email h4{

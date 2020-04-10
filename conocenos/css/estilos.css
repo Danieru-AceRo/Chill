@@ -70,6 +70,7 @@ h2 {
 
 h3{
     font-size: 32px;
+    font-family: 'Dancing Script', cursive;
 }
 .hero-image{
     object-fit: cover;
@@ -120,7 +121,7 @@ figure {
     height: inherit;
     padding: 26px 30px 19px;
     font-size: 19px;
-    font-weight: 100;
+    font-family: 'Dancing Script', cursive;
 }
 .menu {
     height: inherit;
@@ -169,7 +170,7 @@ figure {
 }
 .social h3{
     font-weight: normal;
-    font-family: inherit;
+    font-family: 'Dancing Script', cursive;
 }
 .social-link{
     display: inline-block;
@@ -212,7 +213,7 @@ figure {
     margin-top: 10px;
 }
 .form-email h3{
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: 'Dancing Script', cursive;
 }
 
 .form-email h4{
