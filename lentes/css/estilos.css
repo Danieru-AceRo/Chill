@@ -69,7 +69,7 @@ h2 {
 }
 h3{
     font-size: 32px;
-    font-family: 'Dancing Script', cursive;
+    font-family: ' Fjalla One',  ;
 }
 
 
@@ -108,7 +108,7 @@ figure {
     height: inherit;
     padding: 26px 30px 19px;
     font-size: 19px;
-    font-family: 'Dancing Script', cursive;
+    font-family: ' Fjalla One',  ;
 }
 .header a{
     color:black;
@@ -166,7 +166,7 @@ padding-top: 25px;
 margin-bottom: -10px;
 border-bottom: solid #f3f3f3 2px;
 font-size: 40px;
-font-family: 'Dancing Script', cursive;
+font-family: ' Fjalla One',  ;
 }
 .event {
   margin: 1%;
@@ -236,7 +236,7 @@ font-family: 'Dancing Script', cursive;
 
 .social h3{
     font-weight: normal;
-    font-family: 'Dancing Script', cursive;
+    font-family: ' Fjalla One',  ;
 }
 
 .form-email input{
@@ -262,7 +262,7 @@ font-family: 'Dancing Script', cursive;
 }
 
 .form-email h3{
-   font-family: 'Dancing Script', cursive;
+   font-family: ' Fjalla One',  ;
 }
 
 .form-email h4{

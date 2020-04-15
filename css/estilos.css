@@ -10,9 +10,9 @@
     font-display: block;
   }
   @font-face {
-    font-family:"Modena";
-    src: local("Modena Regular")
-    url(/fonts/Modena.ttf);
+    font-family:" Fjalla One";
+    src: local(" Fjalla One Regular")
+    url(/fonts/ Fjalla One.ttf);
   }
   
   [class^="icon-"], [class*=" icon-"] {
@@ -143,7 +143,7 @@ figure {
     height: inherit;
     padding: 26px 30px 19px;
     font-size: 19px;
-    font-family:'Dancing Script', cursive;
+    font-family:' Fjalla One',  ;
 }
 .menu {
     height: inherit;
@@ -221,7 +221,7 @@ font-weight: 100;
 .social h3{
     font-weight: normal;
     font-family: inherit;
-    font-family:'Dancing Script', cursive;
+    font-family:' Fjalla One',  ;
 }
 .social-link{
     display: inline-block;
@@ -262,7 +262,7 @@ font-weight: 100;
 }
 
 .form-email h3{
-    font-family:'Dancing Script', cursive;
+    font-family:' Fjalla One',  ;
 }
 
 .form-email h4{
@@ -321,7 +321,7 @@ font-size: 80px;
  .promotion-list-title{
 margin-bottom: 0;
 font-size: 35px;
-font-family:'Dancing Script', cursive;
+font-family:' Fjalla One',  ;
 font-weight: 100;
 margin-top: 33px;
 } 

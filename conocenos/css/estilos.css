@@ -70,7 +70,7 @@ h2 {
 
 h3{
     font-size: 32px;
-    font-family: 'Dancing Script', cursive;
+    font-family: ' Fjalla One',  ;
 }
 .hero-image{
     object-fit: cover;
@@ -121,7 +121,7 @@ figure {
     height: inherit;
     padding: 26px 30px 19px;
     font-size: 19px;
-    font-family: 'Dancing Script', cursive;
+    font-family: ' Fjalla One',  ;
 }
 .menu {
     height: inherit;
@@ -170,7 +170,7 @@ figure {
 }
 .social h3{
     font-weight: normal;
-    font-family: 'Dancing Script', cursive;
+    font-family: ' Fjalla One',  ;
 }
 .social-link{
     display: inline-block;
@@ -213,7 +213,7 @@ figure {
     margin-top: 10px;
 }
 .form-email h3{
-    font-family: 'Dancing Script', cursive;
+    font-family: ' Fjalla One',  ;
 }
 
 .form-email h4{
