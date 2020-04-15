@@ -502,6 +502,7 @@ h1 {
     }
     .event-detail{
         margin: 0%;
+        padding: 20px 0;
     }
     .event-title{
         font-size: 22px;
