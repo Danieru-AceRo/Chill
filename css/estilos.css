@@ -102,11 +102,13 @@ h3{
     position: absolute;
     right:3%;
     top: 50%;
+    font-size: 30px;
 }
 .left{
     position: absolute;
     left: 3%;
     top: 50%;
+    font-size: 30px;
 }
 .header{
     background-color: white;
